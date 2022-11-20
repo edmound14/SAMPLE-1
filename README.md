@@ -1,0 +1,2 @@
+# SAMPLE-1
+CLASS 30
